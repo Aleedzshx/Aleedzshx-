@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Alee
 
-🎓 Aspiring Software Engineering student at Uniminuto (virtual modality)  
+🎓 Aspiring Software Engineering student at Areandina (virtual modality)  
 📍 Based in Ibagué, Tolima – Colombia  
 💡 Passionate about building tools that help students plan their future
 
