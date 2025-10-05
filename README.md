@@ -6,15 +6,7 @@
 
 ---
 
-## 🚀 Current Project: University Planner
 
-**University Planner** is a Python-based app designed to help students simulate and compare their academic paths.  
-It calculates expenses like tuition, transportation, and registration, and offers suggestions based on location, modality (virtual or in-person), and available universities.
-
-🔧 Technologies: Python, PyCharm, Excel  
-🎬 Tools: CapCut (for video tutorials and presentations)
-
----
 
 ## 🧠 Skills & Learning Journey
 
