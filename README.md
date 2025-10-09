@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Alee
 
-🎓 Aspiring Software Engineering student at Areandina (virtual modality)  
+🎓 Software Engineering student at Universidad Areandina (starting 2026)   
 📍 Based in Ibagué, Tolima – Colombia  
 💡 Passionate about building tools that help students plan their future
 
@@ -19,16 +19,16 @@ Currently focused on strengthening my Python skills and exploring web developmen
 
 ---
 
-## 🎯 Goals
+## 📈 My Journey
 
-**Short-term**
-- Complete pending online courses this week  
-- Advance the University Planner project with real data and simulations
+At 18, I made the decision to pursue Software Engineering with an international vision. I enrolled at Universidad Areandina in October 2025 and began building my foundation through online courses, certifications, and bilingual documentation.
 
-**Long-term**
-- Work as a web developer in an international tech company  
-- Build tools that help others plan their education and career paths
+🧠 Completing B1-level English courses at Federica Web Learning  
+🛠️ Practicing Python, SQL, JavaScript, and C#  
+📖 Studying software quality and secure coding via SENA  
+🧩 Exploring philosophy of computer science to connect ethics and technology
 
+This journey is more than technical—it's about building tools, communities, and opportunities that reflect who I am and what I stand for.
 ---
 
 ## 📫 Contact
