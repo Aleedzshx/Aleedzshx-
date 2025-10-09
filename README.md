@@ -35,7 +35,8 @@ Currently focused on strengthening my Python skills and exploring web developmen
 
 - Email: salejandro1909@gmail.com  
 - Portfolio: *Coming soon!*  
-- Favorite quote: *"If I could do it, so can you."*
+
+  *"If I could do it, so can you."*
 
 ---
 
